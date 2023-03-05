@@ -7,3 +7,5 @@
 To query Accounts, just add your **instanceUrl** and **accessToken** into **application.properties**
 
 The explanation is [in this article](https://medium.com/@vergil333/salesforce-data-in-java-43635cf3a808).
+
+If you want to **safe a tremendous amount of time**, check my [Salesforce CodeGen](http://salesforce.codegen.link/).
